@@ -73,7 +73,7 @@ All services are maintained in independent GitHub repositories.
 
 | Service | Repository | Responsibility |
 |---|---|---|
-| User Service | [resume-job-tracker](https://github.com/codewithnishu221/resume-job-tracker) | Authentication, user profiles and resume management |
+| User Service | [resume-job-tracker](https://github.com/learnWithNishu/resume-job-tracker) | Authentication, user profiles and resume management |
 | Application Tracker | [application-tracker-service](https://github.com/codewithnishu221/application-tracker-service) | Job applications, status tracking and statistics |
 | Match Service | [match-service](https://github.com/codewithnishu221/match-service) | AI-powered resume matching and skill-gap analysis |
 | Notification Service | [notification-service](https://github.com/codewithnishu221/notification-service) | Event-driven notification processing |
@@ -203,8 +203,8 @@ Clone the individual service repositories:
 ```bash
 git clone https://github.com/codewithnishu221/eureka-server.git
 git clone https://github.com/codewithnishu221/api-gateway.git
-git clone https://github.com/codewithnishu221/resume-job-tracker.git
-git clone https://github.com/codewithnishu221/application-tracker-service.git
+git clone https://github.com/learnWithNishu/resume-job-tracker.git
+git clone https://github.com/learnWithNishu/application-tracker-service.git
 git clone https://github.com/codewithnishu221/match-service.git
 git clone https://github.com/codewithnishu221/notification-service.git
 git clone https://github.com/codewithnishu221/interview-prep-service.git
